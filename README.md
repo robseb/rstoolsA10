@@ -1,17 +1,14 @@
-# rstoolsCY5
+# rstoolsA10
 
  **`rstoolsCY5`is the source code of  [*meta-rstools*](https://github.com/robseb/meta-rstools).**
 
-`meta-rstools` is a Layer for the Yocto project to add a simple way for fully accessing the FPGA Manager of the Intel (ALTERA) Cyclone V SoC-FPGA (SoCFPGA).
+`meta-rstools` is a Layer for the Yocto project to add a simple way for fully accessing the FPGA Manager of the Intel (ALTERA) Arria 10 SoC-FPGA (SoCFPGA).
 
 With a single command it is possible to change FPGA configuration or to read and write the *ARM AXI-Bridge* to the FPGA fabric. 
 The layer is a part of [*rsYocto*](https://github.com/robseb/rsyocto).
 
-<br>
+`Note: The Writing FPGA Fabric Feature is under development!`
 
-![Alt text](FPGAConfigurationAction.gif?raw=true "Write FPGA Configuration")
-
-**Write the FPGA configuration with a single Linux command** 
 
 ___
 ## Features 
