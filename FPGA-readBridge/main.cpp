@@ -36,7 +36,7 @@ bool checkIfInputIsVailed(string input, bool DecHex)
 int main(int argc, const char* argv[])
 {
 	// Read a Register ofthe light Wightweight or AXI HPS to FPGA Interface
-	if (((argc >2) && (std::string(argv[1]) == "-lw")) || ((argc > 3) && (std::string(argv[1]) == "-hf")))
+	if (((argc >2) && (std::string(argv[1]) == "-lw")) || ((argc > 2) && (std::string(argv[1]) == "-hf")))
 	{
 		// read the selected Bridge Interface 
 		bool lwBdrige(std::string(argv[1]) == "-lw");
