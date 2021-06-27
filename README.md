@@ -181,7 +181,7 @@ For informations how to use Microsoft Visual Studio 2019 for embedded Linux deve
 # Author
 * *rsyocto*; **Robin Sebastian,M.Sc. [(LinkedIn)](https://www.linkedin.com/in/robin-sebastian-a5080220a)**
 
-*rsyocto* is a self-developed project in which no other companies are involved. 
+*rstoolsA10* and *rsyocto* are a self-developed projects in which no other companies are involved. 
 It is specifically designed to serve students and the Linux/FPGA open-source community with its publication on GitHub and its open-source MIT license. 
 In the future, *rsyocto* will retain its open-source status and it will be further developed. 
 
