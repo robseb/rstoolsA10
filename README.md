@@ -179,10 +179,19 @@ For informations how to use Microsoft Visual Studio 2019 for embedded Linux deve
 <br>
 
 # Author
-* **Robin Sebastian**
+* *rsyocto*; **Robin Sebastian,M.Sc. [(LinkedIn)](https://www.linkedin.com/in/robin-sebastian-a5080220a)**
 
-*meta-rstools* and *rstools* are projects, that I have fully developed on my own. No companies are involved in this projects.
-Today I'm a Master Student of electronic engineering with the major embedded systems. 
+*rsyocto* is a self-developed project in which no other companies are involved. 
+It is specifically designed to serve students and the Linux/FPGA open-source community with its publication on GitHub and its open-source MIT license. 
+In the future, *rsyocto* will retain its open-source status and it will be further developed. 
+
+Due to the enthusiasm of commercial users, special features for industrial, scientific and automotive applications 
+were developed and ready for the implementation in a highly optimazed closed commercial version. 
+Partnerships as an embedded SoC-FPGA design service to fulfil these specific commercial requirements are offered. 
+It should help, besides students with the *rsyocto* open-source version, commercial users, as well.   
+
+**For commercial users, please visit the *rsyocto* embedded service provider website:** 
+[**rsyocto.com**](https://rsyocto.com/)
 
 [![Gitter](https://badges.gitter.im/rsyocto/community.svg)](https://gitter.im/rsyocto/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Email me!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:git@robseb.de)
